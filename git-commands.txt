@@ -1,0 +1,9 @@
+1) git init : It is used to create a repository.
+2) git status: It is used to check which files are in the eye of repository.
+3) git add "abc.txt": It is used to add a file for tracking.
+4) git commit -m "any name": It is used to make checkpoint that help to rollback and get all the data.
+5) git config --global user.email: It is used to attach email of github with git. 
+6) git config --global user.name: It is used to attach name of github with git. 
+7) git remote: It is used to get remote session from github.
+8) git push -u origin master: It is used to upload a file on github.
+9) git add. : It selects all files on tracking mode.
